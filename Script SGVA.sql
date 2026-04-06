@@ -15,5 +15,5 @@ CREATE TABLE Trazabilidad(
     Telefono VARCHAR(45) NOT NULL,
     Correo VARCHAR(45) NOT NULL,
     Estado VARCHAR(45) NOT NULL,
-    Fecha_cierre VARCHAR(45) NOT NULL
+    Fecha_cierre DATE NOT NULL
 );
